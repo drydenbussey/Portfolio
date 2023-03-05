@@ -1,2 +1,3 @@
 # Portfolio
-My personal portfolio showcasing my software development full stack skills
+My personal portfolio showcasing me :)
+
